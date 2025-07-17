@@ -35,13 +35,13 @@ cd ripple-simulator
 ## 2. Dependencies
 Make sure these are installed:
 
-SFML (>=2.5)
+- SFML (>=2.5)
 
-ImGui
+- ImGui
 
-ImGui-SFML
+- ImGui-SFML
 
-Install via APT:
+## Install via APT:
 
 ```bash
 
